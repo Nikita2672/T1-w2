@@ -1,6 +1,6 @@
 # T1 Homework2 by Иванов Никита Денисович
 
-Это домашняя работа №1 в [рамках открытых школ T1](https://t1.ru/internship/item/otkrytye-shkoly-ot-holdinga-t1/)
+Это домашняя работа №2 в [рамках открытых школ T1](https://t1.ru/internship/item/otkrytye-shkoly-ot-holdinga-t1/)
 
 Тз к работе вы можете посмотреть по [ссылке](Task.md)
 
